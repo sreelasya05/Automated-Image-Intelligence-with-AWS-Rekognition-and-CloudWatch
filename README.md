@@ -1,0 +1,1 @@
+# Automated-Image-Intelligence-with-AWS-Rekognition-and-CloudWatch
